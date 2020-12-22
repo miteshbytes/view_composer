@@ -13,4 +13,7 @@
             <h1 style="color: white;" class="text-center">Last relese Movies</h1>
                 @include('dashboard')
         </div>
+        <div class="col-md-12">
+            @include('profile')
+        </div>
 @endsection
